@@ -4,60 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto oct 14th - Files">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_loops/Lab043_IF_Condition_Optimized.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_loops/Lab044_Elseif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_loops/Lab044_Nested_IF-elseif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_loops/Lab045_Else_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_loops/Lab046_if_else_elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_loops/Lab047_Grade_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/Lab_Match002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/Lab_Match003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/Lab_Switch001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab050_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab051_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab052_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab48_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab49_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabFor reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabForusedReal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_forBreak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_forBreak2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_forBreak3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_forBreak4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab056_forWhile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab057_Pass_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab058_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab059_Odd_Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab060_FizzBuzzTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue/PabPass_Vs_Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab053_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab054.1_forWhile_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/LabWhile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/LabWhile_Vs_For.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Fuction_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Fuction_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_Fuction_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinit_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task0010_API_RRetry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task0010_API_RRetry2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task0011_Grade_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task0012_PageLoad_timeover.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task009_Factiorial.py" afterDir="false" />
+    <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto oct 28 th - Files">
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_loops/Lab043_IF_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task0011_Print_EvnNumbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Keyword_identifieir_variables/Lab004_Keyword.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Keyword_identifieir_variables/Lab004_Keyword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Keyword_identifieir_variables/Lab005_Variable_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Keyword_identifieir_variables/Lab005_Variable_Part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Keyword_identifieir_variables/Lab007_Variables_Names.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Keyword_identifieir_variables/Lab007_Variables_Names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_3_Literal_variables/Lab024_StringsConvertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_3_Literal_variables/Lab024_StringsConvertion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_loops/Lab043_IF_Condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task0010_API_RRetry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task0010_API_RRetry2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task0011_Grade_Calc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task0012_PageLoad_timeover.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task006.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task008.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task009_Factiorial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,6 +145,7 @@
     "Python.Task0010_API_RRetry.executor": "Run",
     "Python.Task0010_API_RRetry2.executor": "Run",
     "Python.Task0011_PageLoad_timeover.executor": "Run",
+    "Python.Task0011_Print_EvnNumbers.executor": "Run",
     "Python.Task003.executor": "Run",
     "Python.Task004.executor": "Run",
     "Python.Task005.executor": "Run",
@@ -270,17 +234,37 @@
       <option name="project" value="LOCAL" />
       <updated>1760717699214</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done upto oct 28 th - Files">
+      <option name="closed" value="true" />
+      <created>1762101690722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762101690722</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="Done upto oct 11" />
     <MESSAGE value="Done upto oct 14th - Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done upto oct 14th - Files" />
+    <MESSAGE value="Done upto oct 28 th - Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done upto oct 28 th - Files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearing$LabFor_reverse.coverage" NAME="LabFor reverse Coverage Results" MODIFIED="1761889993721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_07_Loops/For" />

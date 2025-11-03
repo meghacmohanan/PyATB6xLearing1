@@ -4,19 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto oct 28 th - Files">
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab002_RealExamples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab061_Ex_Fun_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab062_Example_Fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Fun_multipleParameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Fun_ReturnType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab065_Fun_DefaultParameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab066_Fun_MultipleReturnType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab067_Fun_withKEywordArgument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab_IQ_Nested_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task0015_fun_square of a number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task0015_fun_traianlge_isocles.py" afterDir="false" />
+    <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto oct 30 th - Files">
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_User_input_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab073_Real_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab075_Local_varaible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab077_local_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_Functions_Scopes/Lab078_inner_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task0017_fun_check_status.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Fuction_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Fuction_Types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Fuction_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Fuction_IQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_Fuction_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_Fuction_IQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinit_Args.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinit_Args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task0012_PageLoad_timeover.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task0012_PageLoad_timeover.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task0015_fun_traianlge_isocles.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task0016_fun_traianlge_isocles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -132,9 +135,15 @@
     "Python.Lab065_Fun_DefaultParameter.executor": "Run",
     "Python.Lab066_Fun_MultipleReturnType.executor": "Run",
     "Python.Lab067_Fun_withKEywordArgument.executor": "Run",
+    "Python.Lab068_User_input_functions.executor": "Run",
     "Python.Lab069_Fuction_Types.executor": "Run",
     "Python.Lab070_Fuction_IQ.executor": "Run",
     "Python.Lab071_Fuction_IQ.executor": "Run",
+    "Python.Lab072_Infinit_Args.executor": "Run",
+    "Python.Lab073_Real_Args.executor": "Run",
+    "Python.Lab075_Local_varaible.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab078_inner_functions.executor": "Run",
     "Python.Lab48_Loop.executor": "Run",
     "Python.Lab49_For_Loop.executor": "Run",
     "Python.LabFor reverse.executor": "Run",
@@ -152,10 +161,12 @@
     "Python.Task0011_PageLoad_timeover.executor": "Run",
     "Python.Task0011_Print_EvnNumbers.executor": "Run",
     "Python.Task0012_PageLoad_timeover.executor": "Run",
+    "Python.Task0012_Print_EvnNumbers.executor": "Run",
     "Python.Task0013_Print_reverse.executor": "Run",
     "Python.Task0014_Skip_Div_3.executor": "Run",
     "Python.Task0015_fun_square of a number.executor": "Run",
     "Python.Task0015_fun_traianlge_isocles.executor": "Run",
+    "Python.Task0017_fun_check_status.executor": "Run",
     "Python.Task003.executor": "Run",
     "Python.Task004.executor": "Run",
     "Python.Task005.executor": "Run",
@@ -169,7 +180,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/MEGHA/PycharmProjects/PyATB6xLearing/src/task",
+    "last_opened_file_path": "C:/Users/MEGHA/PycharmProjects/PyATB6xLearing/src/ex_09_Functions_Scopes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -181,11 +192,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\task" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_09_Functions_Scopes" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_08_Functions" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\task" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops\Pass_vs_Continue" />
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops\While" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops" />
@@ -276,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762151788805</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Done upto oct 30 th - Files">
+      <option name="closed" value="true" />
+      <created>1762186792552</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762186792552</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +317,8 @@
     <MESSAGE value="Done upto oct 11" />
     <MESSAGE value="Done upto oct 14th - Files" />
     <MESSAGE value="Done upto oct 28 th - Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done upto oct 28 th - Files" />
+    <MESSAGE value="Done upto oct 30 th - Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done upto oct 30 th - Files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearing$LabFor_reverse.coverage" NAME="LabFor reverse Coverage Results" MODIFIED="1761889993721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_07_Loops/For" />

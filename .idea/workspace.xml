@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto oct 28 th - Files">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_loops/Lab043_IF_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task0011_Print_EvnNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task0013_Print_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task0014_Skip_Div_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task0010_API_RRetry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task0010_API_RRetry2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task0011_Grade_Calc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task0012_PageLoad_timeover.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task004.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task008.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task009_Factiorial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +133,8 @@
     "Python.Task0010_API_RRetry2.executor": "Run",
     "Python.Task0011_PageLoad_timeover.executor": "Run",
     "Python.Task0011_Print_EvnNumbers.executor": "Run",
+    "Python.Task0012_PageLoad_timeover.executor": "Run",
+    "Python.Task0013_Print_reverse.executor": "Run",
     "Python.Task003.executor": "Run",
     "Python.Task004.executor": "Run",
     "Python.Task005.executor": "Run",
@@ -159,7 +148,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/MEGHA/PycharmProjects/PyATB6xLearing/src/ex_07_Loops",
+    "last_opened_file_path": "C:/Users/MEGHA/PycharmProjects/PyATB6xLearing/src/task",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -171,8 +160,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\task" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_08_Functions" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops\Pass_vs_Continue" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops\While" />
@@ -242,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762101690722</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Done upto oct 28 th - Files">
+      <option name="closed" value="true" />
+      <created>1762151055899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762151055899</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

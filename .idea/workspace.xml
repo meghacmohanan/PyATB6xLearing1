@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto oct 28 th - Files">
-      <change afterPath="$PROJECT_DIR$/src/task/Task0013_Print_reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task0014_Skip_Div_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab002_RealExamples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab061_Ex_Fun_parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab062_Example_Fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Fun_multipleParameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Fun_ReturnType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab065_Fun_DefaultParameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab066_Fun_MultipleReturnType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab067_Fun_withKEywordArgument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab_IQ_Nested_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task0015_fun_square of a number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task0015_fun_traianlge_isocles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +66,7 @@
     "Python.Lab0014_Math_Functions.executor": "Run",
     "Python.Lab001_Python_Hello.executor": "Run",
     "Python.Lab002_Comment.executor": "Run",
+    "Python.Lab002_RealExamples.executor": "Run",
     "Python.Lab003_print.executor": "Run",
     "Python.Lab004_Keyword.executor": "Run",
     "Python.Lab005_Variable_Part1.executor": "Run",
@@ -115,6 +125,13 @@
     "Python.Lab058_IQ.executor": "Run",
     "Python.Lab059_Odd_Numbers.executor": "Run",
     "Python.Lab060_FizzBuzzTest.executor": "Run",
+    "Python.Lab061_Ex_Fun_parameters.executor": "Run",
+    "Python.Lab061_Example_Fun.executor": "Run",
+    "Python.Lab063_Fun_multipleParameters.executor": "Run",
+    "Python.Lab064_Fun_ReturnType.executor": "Run",
+    "Python.Lab065_Fun_DefaultParameter.executor": "Run",
+    "Python.Lab066_Fun_MultipleReturnType.executor": "Run",
+    "Python.Lab067_Fun_withKEywordArgument.executor": "Run",
     "Python.Lab069_Fuction_Types.executor": "Run",
     "Python.Lab070_Fuction_IQ.executor": "Run",
     "Python.Lab071_Fuction_IQ.executor": "Run",
@@ -124,6 +141,7 @@
     "Python.LabForusedReal.executor": "Run",
     "Python.LabWhile.executor": "Run",
     "Python.LabWhile_Vs_For.executor": "Run",
+    "Python.Lab_IQ_Nested_Functions.executor": "Run",
     "Python.Lab_Match002.executor": "Run",
     "Python.Lab_Match003.executor": "Run",
     "Python.Lab_Switch001.executor": "Run",
@@ -135,6 +153,9 @@
     "Python.Task0011_Print_EvnNumbers.executor": "Run",
     "Python.Task0012_PageLoad_timeover.executor": "Run",
     "Python.Task0013_Print_reverse.executor": "Run",
+    "Python.Task0014_Skip_Div_3.executor": "Run",
+    "Python.Task0015_fun_square of a number.executor": "Run",
+    "Python.Task0015_fun_traianlge_isocles.executor": "Run",
     "Python.Task003.executor": "Run",
     "Python.Task004.executor": "Run",
     "Python.Task005.executor": "Run",
@@ -161,8 +182,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\task" />
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_08_Functions" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops\Pass_vs_Continue" />
       <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops\While" />
     </key>
@@ -239,7 +260,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762151055899</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Done upto oct 28 th - Files">
+      <option name="closed" value="true" />
+      <created>1762151767412</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762151767412</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Done upto oct 28 th - Files">
+      <option name="closed" value="true" />
+      <created>1762151788805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762151788805</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

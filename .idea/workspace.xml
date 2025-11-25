@@ -4,32 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto Nov 4th- Files">
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab096_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab097_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab098_pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab099_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab102_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab103_SetP2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab104_SetP3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_Squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_MapAnd_filter/Lab_Filter01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_MapAnd_filter/Lab_Filter02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_MapAnd_filter/Lab_Filter03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_MapAnd_filter/Lab_Filter04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_MapAnd_filter/Lab_Filter05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_MapAnd_filter/Lab_Map01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_MapAnd_filter/Lab_Map02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_MapAnd_filter/Lab_Map03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab106_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab107_Dict_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab108_Dict_Mult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab109_Dict_Mult.py" afterDir="false" />
+    <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto Nov 8th- Files">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab111_Dict_Frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab112_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab113_Dict_Max_Val.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab114_IQ_Dict_Rem_duplciat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab115_Dict_DupKey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Tuple/Lab115_ID_count_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/001_Class_Object/Lab117_oops_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/001_Class_Object/Lab118_Class_dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/002_Constructor/Lab119_Mobile_Defau_Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/002_Constructor/Lab119_Param_Construct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/002_Constructor/Lab120_Param_const.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/002_Constructor/Lab121_User_Defined_const.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/002_Constructor/Lab122_Calc_No_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/002_Constructor/Lab123_Calc_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/003_Instance_Variable/Lab124_OOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/003_Instance_Variable/Lab125_OOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/004_Encapsulation/Lab127_Encaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/004_Encapsulation/Lab128_Encaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/004_Encapsulation/Lab128_Encaps_ENV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/004_Encapsulation/Lab129_Encaps_Ft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/004_Encapsulation/Lab130_Encaps_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/004_Encapsulation/Lab131_Encaps_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/004_Encapsulation/Lab132_Encaps_Personal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/004_Encapsulation/Lab132_Private_protected_private.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/01_SI/Lab133_Single_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/02_Multiple inheritance/Lab134_Multipl_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/02_Multiple inheritance/Lab135_Multipl_inheritance2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/03_MultiLevel/Lab136_MultiLevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/04_Heirarchial_Inheritance/Lab137_Heirarchy_Level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/05_Hybrid_Inheritance/Lab138_Hibrid_Level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polumorphism/Method_Overrriding/Lab140_Method_Overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polumorphism/Method_Overrriding/Lab141_Method_Overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/Lab139_REAL_AuUTOMATION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task0019_List_No_of_vowelsandConsonants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task0019_Palliandrom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task21_Class_oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Task22_Encapsulation_Inheriatance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/Task0018_Print_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task0018_Print_Trainalge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/Task0018_Print_Trainalge.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task0018_Print_Trainalge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,6 +201,38 @@
     "Python.Lab108_Dict_Mult.executor": "Run",
     "Python.Lab109_Dict_Mult.executor": "Run",
     "Python.Lab110_Dict_Concept.executor": "Run",
+    "Python.Lab111_Dict_Frequency.executor": "Run",
+    "Python.Lab112_Dict.executor": "Run",
+    "Python.Lab113_Dict_Max_Val.executor": "Run",
+    "Python.Lab114_IQ_Dict_Rem_duplciat.executor": "Run",
+    "Python.Lab115_ID_count_vowel.executor": "Run",
+    "Python.Lab117_Class_dog.executor": "Run",
+    "Python.Lab117_oops_Class.executor": "Run",
+    "Python.Lab119_Class_dog2.executor": "Run",
+    "Python.Lab120_Mobile.executor": "Run",
+    "Python.Lab120_Param_const.executor": "Run",
+    "Python.Lab121_User_Defined_const.executor": "Run",
+    "Python.Lab122_Calculator.executor": "Run",
+    "Python.Lab123_Calc_PC.executor": "Run",
+    "Python.Lab124_OOps.executor": "Run",
+    "Python.Lab125_OOps.executor": "Run",
+    "Python.Lab127_Encaps.executor": "Run",
+    "Python.Lab128_Encaps.executor": "Run",
+    "Python.Lab128_Encaps_ENV.executor": "Run",
+    "Python.Lab130_Encaps_Example.executor": "Run",
+    "Python.Lab131_Encaps_Example.executor": "Run",
+    "Python.Lab132_Encaps_Personal.executor": "Run",
+    "Python.Lab132_Private_protected_private.executor": "Run",
+    "Python.Lab133_Single_inheritance.executor": "Run",
+    "Python.Lab134_Multipl_inheritance.executor": "Debug",
+    "Python.Lab135_Multipl_inheritance2.executor": "Run",
+    "Python.Lab136_MultiLevel.executor": "Run",
+    "Python.Lab137_Heirarchy_Level.executor": "Run",
+    "Python.Lab137_Hibrid_Level.executor": "Debug",
+    "Python.Lab138_Hibrid_Level.executor": "Run",
+    "Python.Lab139_REAL_AuUTOMATION.executor": "Run",
+    "Python.Lab140_Method_Overriding.executor": "Debug",
+    "Python.Lab141_Method_Overriding.executor": "Run",
     "Python.Lab48_Loop.executor": "Run",
     "Python.Lab49_For_Loop.executor": "Run",
     "Python.LabFor reverse.executor": "Run",
@@ -219,6 +266,8 @@
     "Python.Task0017_fun_check_status.executor": "Run",
     "Python.Task0018_Print_Trainalge.executor": "Run",
     "Python.Task0018_Print_pattern.executor": "Run",
+    "Python.Task0019_List_No_of_vowelsandConsonants.executor": "Run",
+    "Python.Task0019_Palliandrom.executor": "Run",
     "Python.Task003.executor": "Run",
     "Python.Task004.executor": "Run",
     "Python.Task005.executor": "Run",
@@ -226,6 +275,7 @@
     "Python.Task007.executor": "Run",
     "Python.Task008.executor": "Run",
     "Python.Task009_Factiorial.executor": "Run",
+    "Python.Task22_Encapsulation_Inheriatance.executor": "Run",
     "Python.user_input_odd_even.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -233,7 +283,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/MEGHA/PycharmProjects/PyATB6xLearing/src/ex_17_Tuple",
+    "last_opened_file_path": "C:/Users/MEGHA/PycharmProjects/PyATB6xLearing/src/ex_18_OOPS/005_Inheritance/06_Polumorphism/Method_Overrriding",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -245,18 +295,140 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_17_Tuple" />
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_16_MapAnd_filter" />
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_15_Set" />
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src" />
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_14_Tuple" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\005_Inheritance\06_Polumorphism\Method_Overrriding" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\005_Inheritance\06_Polumorphism" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\005_Inheritance" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\005_Inheritance\05_Hybrid_Inheritance" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\005_Inheritance\04_Heirarchial_Inheritance" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops" />
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops\Break" />
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_07_Loops\For" />
-      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\test" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\005_Inheritance\06_Polumorphism\Method_Overrriding" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\005_Inheritance\01_SI" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\004_Encapsulation" />
+      <recent name="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\002_Constructor" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.Lab141_Method_Overriding">
+    <configuration name="Lab137_Heirarchy_Level" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/04_Heirarchial_Inheritance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/04_Heirarchial_Inheritance/Lab137_Heirarchy_Level.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab138_Hibrid_Level" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/05_Hybrid_Inheritance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\005_Inheritance\05_Hybrid_Inheritance\Lab138_Hibrid_Level.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab139_REAL_AuUTOMATION" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/Lab139_REAL_AuUTOMATION.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab140_Method_Overriding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polumorphism" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\MEGHA\PycharmProjects\PyATB6xLearing\src\ex_18_OOPS\005_Inheritance\06_Polumorphism\Method_Overrriding\Lab140_Method_Overriding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab141_Method_Overriding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polumorphism/Method_Overrriding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polumorphism/Method_Overrriding/Lab141_Method_Overriding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab141_Method_Overriding" />
+        <item itemvalue="Python.Lab140_Method_Overriding" />
+        <item itemvalue="Python.Lab139_REAL_AuUTOMATION" />
+        <item itemvalue="Python.Lab138_Hibrid_Level" />
+        <item itemvalue="Python.Lab137_Heirarchy_Level" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -364,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762774228445</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Done upto Nov 8th- Files">
+      <option name="closed" value="true" />
+      <created>1763125122244</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763125122244</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +569,8 @@
     <MESSAGE value="Done upto oct 30 th - Files" />
     <MESSAGE value="Done upto Nov 1st- Files" />
     <MESSAGE value="Done upto Nov 4th- Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done upto Nov 4th- Files" />
+    <MESSAGE value="Done upto Nov 8th- Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done upto Nov 8th- Files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -10,13 +10,13 @@ Write a program to print *
 *****
 """
 
+rows= int(input("Enter the no.of rows of a traingle: "))
 
-j=0
-for i in range(6):
-    if (i<j):
-        print("* " * i, end=" \n")
-        j=j+1
-    i=i+1
+for i in range(1, rows+1):
+    for j in range(i):
+        print("*", end="")
+    print()
+
 
 
 

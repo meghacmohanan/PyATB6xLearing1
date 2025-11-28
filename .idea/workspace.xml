@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto Nov 20th- Files">
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polymorphism/Method_Overloading/Lab142_Method_Overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polymorphism/Method_Overloading/Lab142_Method_Overloading2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polymorphism/Method_Overloading/Lab143_Method_Overloading3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polymorphism/Method_Overloading/Lab144_Method_Overloading4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/07Abstraction/Lab145_Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/07Abstraction/Lab146_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/07Abstraction/Lab147_REAL_PYTHON.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/07Abstraction/Lab149_Real.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/08_static/Lab150_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/08_static/Lab151_StaticMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/08_static/Lab152_Static_All.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/08_static/Lab153_NonStatic_Afun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/08_static/Lab154_REALEXAMPLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Task23_staticmethod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polumorphism/Method_Overrriding/Lab140_Method_Overriding.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polymorphism/Method_Overrriding/Lab140_Method_Overriding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polumorphism/Method_Overrriding/Lab141_Method_Overriding.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/06_Polymorphism/Method_Overrriding/Lab141_Method_Overriding.py" afterDir="false" />
+    <list default="true" id="412dba40-e6e8-497b-97ad-a5ab58f5855c" name="Changes" comment="Done upto Nov 22nd- Files">
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOPS/005_Inheritance/07Abstraction/Lab148_Real.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +206,7 @@
     "Python.Lab151_StaticMethod.executor": "Run",
     "Python.Lab152_Static_All.executor": "Run",
     "Python.Lab153_NonStatic_Afun.executor": "Run",
-    "Python.Lab154_REALEXAMPLE.executor": "Debug",
+    "Python.Lab154_REALEXAMPLE.executor": "Run",
     "Python.Lab48_Loop.executor": "Run",
     "Python.Lab49_For_Loop.executor": "Run",
     "Python.LabFor reverse.executor": "Run",
@@ -266,6 +250,7 @@
     "Python.Task008.executor": "Run",
     "Python.Task009_Factiorial.executor": "Run",
     "Python.Task22_Encapsulation_Inheriatance.executor": "Run",
+    "Python.Task23_staticmethod.executor": "Run",
     "Python.user_input_odd_even.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -550,7 +535,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764084060761</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Done upto Nov 22nd- Files">
+      <option name="closed" value="true" />
+      <created>1764331898318</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764331898319</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Done upto Nov 22nd- Files">
+      <option name="closed" value="true" />
+      <created>1764331956332</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764331956332</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,7 +578,8 @@
     <MESSAGE value="Done upto Nov 4th- Files" />
     <MESSAGE value="Done upto Nov 8th- Files" />
     <MESSAGE value="Done upto Nov 20th- Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done upto Nov 20th- Files" />
+    <MESSAGE value="Done upto Nov 22nd- Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done upto Nov 22nd- Files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
